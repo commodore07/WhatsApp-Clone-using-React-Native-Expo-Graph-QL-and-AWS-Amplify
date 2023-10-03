@@ -1,0 +1,12 @@
+{
+  "resourceName": "s3andreastorage9c10bddd",
+  "bucketName": "andrea-storage-9c10bddd",
+  "policyUUID": "6ee51b02",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ]
+}

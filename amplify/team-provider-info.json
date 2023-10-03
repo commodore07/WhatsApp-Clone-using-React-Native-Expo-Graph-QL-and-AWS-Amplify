@@ -1,0 +1,26 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-andrea-staging-114324-authRole",
+      "UnauthRoleArn": "arn:aws:iam::084073784730:role/amplify-andrea-staging-114324-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::084073784730:role/amplify-andrea-staging-114324-authRole",
+      "Region": "eu-west-2",
+      "DeploymentBucketName": "amplify-andrea-staging-114324-deployment",
+      "UnauthRoleName": "amplify-andrea-staging-114324-unauthRole",
+      "StackName": "amplify-andrea-staging-114324",
+      "StackId": "arn:aws:cloudformation:eu-west-2:084073784730:stack/amplify-andrea-staging-114324/ea146600-52f3-11ee-bc74-0ace0de063b2",
+      "AmplifyAppId": "d1p68xf8t7wnbv"
+    },
+    "categories": {
+      "auth": {
+        "Andrea": {}
+      },
+      "api": {
+        "Andrea": {}
+      },
+      "storage": {
+        "s3andreastorage9c10bddd": {}
+      }
+    }
+  }
+}
